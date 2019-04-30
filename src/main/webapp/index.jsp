@@ -9,6 +9,6 @@
     </head>
     <body>
 <<<<<<< HEAD
-        <h1>Ce site en version française-v2.0</h1>
+        <h1>Ce site en version française-v1.0</h1>
     </body>
 </html>
